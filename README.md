@@ -1,5 +1,8 @@
 # Password Vomit
 
+Github Repo: https://github.com/Rsaldaen/Password-Vomit
+Deployed: https://rsaldaen.github.io/Password-Vomit/
+
 ## User Story
 ```
 AS AN employee with access to sensitive data
